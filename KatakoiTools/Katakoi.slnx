@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CODE/CODE.vcxproj" Id="b19a3282-42a8-4313-b12e-a66ccc43345a" />
+  <Project Path="Katakoi/Katakoi.vcxproj" Id="5f1fc08d-ea5b-432a-a8fe-39f884206670" />
+  <Project Path="SplitFile/SplitFile.vcxproj" Id="a043cbe2-939c-4d3d-b42b-382043a358b4" />
+</Solution>

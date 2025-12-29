@@ -1,0 +1,1 @@
+iar_unpack.exe "img/katakoi_img.iar"
